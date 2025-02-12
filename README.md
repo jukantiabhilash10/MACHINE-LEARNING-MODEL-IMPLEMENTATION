@@ -26,3 +26,6 @@ This project involves classifying the Iris dataset using a **Random Forest Class
 - **Scikit-Learn** for machine learning model training
 
 ## 💡 Example Output
+![Image](https://github.com/user-attachments/assets/6fbd32ab-f34f-41a1-8844-8a35003e8466)
+![Image](https://github.com/user-attachments/assets/bdcfff8b-566c-42ba-a3d3-0b66e8c81510)
+# 📊 Visualizations
